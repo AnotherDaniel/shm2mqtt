@@ -1,0 +1,16 @@
+{
+  "domain": "shm2mqtt",
+  "name": "SMA SHM2 via smahub MQTT",
+  "version": "0.1.0",
+  "codeowners": [
+    "@AnotherDaniel"
+  ],
+  "config_flow": true,
+  "dependencies": [
+    "mqtt"
+  ],
+  "documentation": "https://www.home-assistant.io/integrations/shm2mqtt",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "requirements": []
+}

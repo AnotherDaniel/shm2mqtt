@@ -1,6 +1,6 @@
 {
-    "name": "Integration blueprint",
-    "filename": "integration_blueprint.zip",
+    "name": "SMA SHM2 via smahub MQTT",
+    "filename": "shm2mqtt.zip",
     "hide_default_branch": true,
     "homeassistant": "2023.3.0",
     "render_readme": true,
